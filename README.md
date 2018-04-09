@@ -8,4 +8,7 @@
 # Оба глагола say и tell могут употребляться с дополнением man, глагол tell употребляется только с дополнением lie (to tell a lie), так как это устойчивое выражение в английском языке. Глагол say может употребляться с дополнением goodbye (say goodbye), так как это тоже является устойчивым выражением. 
 # Бонусное задание:
 # Я взяла слово "cable"
-#![](https://github.com/alexasunnymood/hw6/blob/master/Снимок.PNG)
+# ![](https://github.com/alexasunnymood/hw6/blob/master/Снимок.PNG)
+# Данные из BNC:
+# ![](https://github.com/alexasunnymood/hw6/blob/master/Снимок3.PNG)
+# Данные из Google Ngrams:
