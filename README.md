@@ -12,3 +12,4 @@
 # Данные из BNC:
 # ![](https://github.com/alexasunnymood/hw6/blob/master/Снимок3.PNG)
 # Данные из Google Ngrams:
+# ![](https://github.com/alexasunnymood/hw6/blob/master/Снимок1.PNG)
